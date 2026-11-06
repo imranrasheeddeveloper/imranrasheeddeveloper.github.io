@@ -1,3 +1,6 @@
 # Source resumes (the site serves assets/Imran-Rasheed-Resume.pdf)
 /Imran-Rasheed-*.pdf
 .DS_Store
+
+# GitHub profile README lives in its own repo
+/github-profile/
